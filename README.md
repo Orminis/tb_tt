@@ -1,6 +1,7 @@
-# tb_bse
-Data Tracking for BSE TB performance over time.
+# tb_TT
+Data Tracking for TT TB performance over time.
 
+Forked from https://github.com/genskaar
 
 ## Updating
 For each guild directory (BSE, etc...)
